@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="./logo.png" alt="DevInsightLab Logo" width="200">
+  <img src="./logo.png" alt="DevInsightLab Logo" width="500">
+
+  <br/><br/>
+  
+  <p>
+    DevInsightLab curates practical development resources, from real-world code examples to in-depth guides and tools, designed to help you build better software. 
+  </p>
 </div>
 
-# Welcome to DevInsightLab!
-
-**Innovation Starts with Shared Knowledge**
-
-DevInsightLab curates practical development resources, from real-world code examples to in-depth guides and tools, designed to help you build better software. 
 
 ## What You'll Find Here
 
