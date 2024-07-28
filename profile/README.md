@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./logo.png" alt="DevInsightLab Logo" width="500">
+  <img src="./thecodersstudio-high-resolution-logo-transparent.png" alt="DevInsightLab Logo" width="500">
 
   <br/><br/>
   
   <p>
-    DevInsightLab curates practical development resources, from real-world code examples to in-depth guides and tools, designed to help you build better software. 
+    TheCodersStudio curates practical development resources, from real-world code examples to in-depth guides and tools, designed to help you build better software. 
   </p>
 </div>
 
