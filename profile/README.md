@@ -24,4 +24,4 @@ Let's learn, build, and innovate together!
 
 **Happy coding!**
 
-**The DevInsightLab Team**
+**TheCodersStudio Team**
